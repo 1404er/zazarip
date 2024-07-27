@@ -1,0 +1,16 @@
+html {
+  background-color: #f9fafa;
+}
+
+.main_content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
+  }
+
+.img {
+  max-width: 50vh;
+  max-height: 50vh;
+}
